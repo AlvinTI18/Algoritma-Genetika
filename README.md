@@ -1,2 +1,2 @@
 # Algoritma-Genetika
-Alvin Ivander Sachio Chandra_F55118024
+Ini merupakan sebuah program pada algoritma genetika menggunakan bahasa pemrograman MATLAB
